@@ -9,7 +9,7 @@
     <ProjectGuid>{95BCC4FD-2777-49D9-BCA4-F3CF86F15516}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Survey.Tests</RootNamespace>
+    <RootNamespace>SurveyApp.Tests</RootNamespace>
     <AssemblyName>Survey.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

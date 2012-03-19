@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
-using Survey.Models;
+using SurveyApp.Models;
 
-namespace Survey.Controllers
+namespace SurveyApp.Controllers
 {
     public class AccountController : Controller
     {

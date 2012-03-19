@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Survey;
-using Survey.Controllers;
+using SurveyApp;
+using SurveyApp.Controllers;
 
-namespace Survey.Tests.Controllers
+namespace SurveyApp.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

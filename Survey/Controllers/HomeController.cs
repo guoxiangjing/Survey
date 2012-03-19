@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Survey.Controllers
+namespace SurveyApp.Controllers
 {
     public class HomeController : Controller
     {

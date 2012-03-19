@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Web.Mvc;
 using System.Web.Security;
 
-namespace Survey.Models
+namespace SurveyApp.Models
 {
 
     public class ChangePasswordModel
