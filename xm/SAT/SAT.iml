@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Apps/SAT/Rel8_2/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../Apps/SAT/Rel8_2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Apps/SAT/Rel8_2/war" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw_WebFramework" />
+    <orderEntry type="module" module-name="Foundation" />
+    <orderEntry type="module" module-name="extensity_all" />
+    <orderEntry type="module" module-name="Suite" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/sourceforge/myfaces/111/myfaces-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/Apache/jakarta-servletapi-5/jsp-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

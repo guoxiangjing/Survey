@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Framework/common/Rel8_2/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../Framework/common/Rel8_2/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="all">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/castor-0.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/Apache/jakarta-log4j/log4j-1.2.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/jaxb-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/jaxb-libs.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/xalan-j_2_7_0/xalan.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/relaxngDatatype.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/weblogic/wls92/server/lib/weblogic.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/weblogic/wls92/beehive/apache-beehive-svn-snapshot/lib/netui/commons-beanutils.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../devenv/libs/xml/jaxb-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
