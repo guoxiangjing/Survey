@@ -17,7 +17,9 @@
             <div id="menucontainer">
                 <ul id="menu">
                     <li>@Html.ActionLink("主页", "Index", "Home")</li>
+                    @if (Request.IsAuthenticated) {
                     <li>@Html.ActionLink("调查主题", "Index", "Survey")</li>
+                    }
                 </ul>
             </div>
         </div>
